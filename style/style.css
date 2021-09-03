@@ -2,8 +2,19 @@
 ul li {
     list-style: none;
 }
-
+body {
+    background-color: lightgray;
+}
+#github{
+    display: block;
+    padding-top: 25px;
+}
+#index{
+    display: block;
+    padding-bottom: 20px;
+}
 .wrapper {
+    background-color: grey;
     text-align: center;
     margin: auto;
     border: 3px solid red;
