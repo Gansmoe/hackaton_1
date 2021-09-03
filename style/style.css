@@ -14,10 +14,11 @@ body {
     padding-bottom: 20px;
 }
 .wrapper {
+    width: 50%;
+    height: 50%;
     background-color: grey;
     text-align: center;
     margin: auto;
     border: 3px solid red;
-    width: 90%;
     box-shadow: 8px 8px 6px 6px #888888;
 }
